@@ -2,7 +2,7 @@
 
 1. Copy the three files below.
 
-   .babelrc
+   .babelrc<br>
    .eslintrc.json
    webpack.config.js
 
