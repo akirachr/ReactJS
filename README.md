@@ -42,8 +42,8 @@
 
 5. Copy the folders below.
 
-   /public
-   /src
+   /public<br>
+   /src<br>
    
 6. Run the command below.
 
