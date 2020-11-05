@@ -19,17 +19,26 @@
 
 4. Run the commands below.
 
-npm install react react-dom<br>
-npm install webpack webpack-dev-server --save-dev<br>
-npm install babel-cli --save-dev<br>
-npm install babel-loader@8 --save-dev<br>
-npm install @babel/core --save-dev<br>
-npm install @babel/preset-env --save-dev<br>
-npm install @babel/preset-react --save-dev<br>
-npm install eslint eslint-loader eslint-plugin-react --save-dev<br>
-npm install css-loader style-loader babel-loader --save-dev<br>
-npm install babel-eslint --save-dev<br>
-npm i -D webpack-cli<br>
+   npm install react react-dom<br>
+   npm install webpack webpack-dev-server --save-dev<br>
+   npm install babel-cli --save-dev<br>
+   npm install babel-loader@8 --save-dev<br>
+   npm install @babel/core --save-dev<br>
+   npm install @babel/preset-env --save-dev<br>
+   npm install @babel/preset-react --save-dev<br>
+   npm install eslint eslint-loader eslint-plugin-react --save-dev<br>
+   npm install css-loader style-loader babel-loader --save-dev<br>
+   npm install babel-eslint --save-dev<br>
+   npm i -D webpack-cli<br>
 <br>
-npm install @material-ui/core<br>
-npm install @material-ui/icons<br>
+   npm install @material-ui/core<br>
+   npm install @material-ui/icons<br>
+
+5. Copy the folders below.
+
+   /public
+   /src
+   
+6. Run the command below.
+
+   npm start
