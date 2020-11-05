@@ -1,24 +1,35 @@
 # ReactJS
 
-1. Copy the three files below.
+1. Run the command below.
+
+   npm init -y<br>
+
+2. Edit the package.json like below on the part of "scripts.
+
+   "scripts": {<br>
+      "start": "webpack-dev-server",<br>
+      "webpack": "webpack -d"<br>
+   },<br>
+  
+3. Copy the three files below.
 
    .babelrc<br>
-   .eslintrc.json
-   webpack.config.js
+   .eslintrc.json<br>
+   webpack.config.js<br>
 
-2. Run the commands below.
+4. Run the commands below.
 
-npm install react react-dom
-npm install webpack webpack-dev-server --save-dev
-npm install babel-cli --save-dev
-npm install babel-loader@8 --save-dev
-npm install @babel/core --save-dev
-npm install @babel/preset-env --save-dev
-npm install @babel/preset-react --save-dev
-npm install eslint eslint-loader eslint-plugin-react --save-dev
-npm install css-loader style-loader babel-loader --save-dev
-npm install babel-eslint --save-dev
-npm i -D webpack-cli
-
-npm install @material-ui/core
-npm install @material-ui/icons
+npm install react react-dom<br>
+npm install webpack webpack-dev-server --save-dev<br>
+npm install babel-cli --save-dev<br>
+npm install babel-loader@8 --save-dev<br>
+npm install @babel/core --save-dev<br>
+npm install @babel/preset-env --save-dev<br>
+npm install @babel/preset-react --save-dev<br>
+npm install eslint eslint-loader eslint-plugin-react --save-dev<br>
+npm install css-loader style-loader babel-loader --save-dev<br>
+npm install babel-eslint --save-dev<br>
+npm i -D webpack-cli<br>
+<br>
+npm install @material-ui/core<br>
+npm install @material-ui/icons<br>
