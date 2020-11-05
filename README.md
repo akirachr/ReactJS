@@ -34,6 +34,8 @@
    npm install @material-ui/core<br>
    npm install @material-ui/icons<br>
    <br>
+   If any error happens about webpack, run the commands below.<br>
+   <br>
    npm install webpack@4.44.2<br>
    npm install webpack-cli@3.3.12<br>
    npm install webpack-dev-server@3.11.0<br>
